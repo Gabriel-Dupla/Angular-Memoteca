@@ -1,27 +1,12 @@
-# Memoteca
+<h1 align="center">Projeto: Memoteca</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.1.
+<div>
+  <p align="center">
+    <img alt="Status do projeto com os dizeres: Andamento" src="https://img.shields.io/static/v1?label=Status&message=Andamento &color=yellow">
+  </p>
+</div>
 
-## Development server
+## **Descrição**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Desenvolvimento de um programa de lembretes utilizando Angular. O projeto foi desenvolvido ao longo do curso [Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD](https://www.alura.com.br/curso-online-angular-explorando-framework) ministrado pela instrutora [Nayanne Batista](https://cursos.alura.com.br/user/nayanne-batista?_gl=1*1cvwlt1*_ga*MTk4MTE0OTU3Mi4xNjk2MTAyOTIy*_ga_1EPWSW3PCS*MTY5NjEwMjkyMi4xLjEuMTY5NjEwMzIyOS4wLjAuMA..*_fplc*alpKamJLJTJGbVBvNzNhJTJGdk9jMEJTQnZRc3E0MnlNU2lLa1klMkZoUTRRWDhLNThHaSUyQnIyOGJsUHElMkYyakFsUldsT0xGU0pLa3phN2QzczhOem1lR3FNbUJWdGVCNEpGNmVwMHk0V1htSzUzcEdkWXZxRnlrVVklMkJUY2Y3M0dsSmtRJTNEJTNE).
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
